@@ -17,7 +17,7 @@ console.log( typeof nome);
 console.log( typeof idade);
 console.log( typeof carteiraDeMotorista)
 
-// imprimindo os valores das variaveis 
+// imprimindo os valores das variaveis e concatenando 
 console.log("Olá meu nome é "+nome);
 console.log("Eu tenho "+idade+" anos");
 console.log("Eu nasci no ano de "+ anoDeNascimento)
@@ -25,6 +25,6 @@ console.log("Eu nasci no ano de "+ anoDeNascimento)
 
 //Fazendo calculos simples com JS
 
-console.log("10"+10)
-console.log("20"-10)
+console.log("10"+10)//1010
+console.log("20"-10)//10
 
